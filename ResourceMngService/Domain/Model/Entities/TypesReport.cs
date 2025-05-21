@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using ResourceMngService.Domain.Model.Aggregates;
 
-namespace ResourceMngService;
+namespace ResourceMngService.Domain.Model.Entities;
 
 public partial class TypesReport
 {

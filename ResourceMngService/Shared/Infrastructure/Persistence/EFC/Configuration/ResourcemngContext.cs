@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using ResourceMngService.Domain.Model.Aggregates;
+using ResourceMngService.Domain.Model.Entities;
 
 namespace ResourceMngService.Shared.Infrastructure.Persistence.EFC.Configuration;
 
